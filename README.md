@@ -6,5 +6,6 @@ and scan https://github.com/JackLiangTW/ARjs/blob/master/marker1.png can show 3D
 <br>
 <br>
 For AR3dGames.html<br>
+Using computer's browsers to visit https://jackliangtw.github.io/Work3D/AR3dGames<br>
 It is a 3D games <br>
 Using 'A' and 'D' to control character move to avoid collide with enermy
